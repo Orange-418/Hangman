@@ -5,6 +5,7 @@
 
 //things to do:
 //- set users input to all lowercase
+//- add a vector for incorrectInputs just like correctInputs
 //- add a toggle option for test mode to display the word being used
 //- add an actual hangman character instead of a lives left line
 //- break up the functions into class files
